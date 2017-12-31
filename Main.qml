@@ -210,7 +210,7 @@ Rectangle {
                 textColor: "white"
                 dropdownColor: "#22000000"
                 hoverColor: "#77000000"
-                // width: 245
+                width: 200
                 anchors.verticalCenter: parent.verticalCenter
 
                 arrowIcon: "angle-down.png"
